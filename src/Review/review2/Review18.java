@@ -1,10 +1,10 @@
-package javahukusyuu2;
+package Review.review2;
 
-public class Review17 {
+public class Review18 {
     public static void main(String[] args) {
         int num = 10;
         int sum = 0;
-        int i = 0;
+        int i = 1;
         while(i <= num){
             sum += i;
             i = i + 2;

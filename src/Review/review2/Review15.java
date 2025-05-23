@@ -1,4 +1,4 @@
-package javahukusyuu2;
+package Review.review2;
 
 public class Review15 {
     public static void main(String[] args) {

@@ -1,13 +1,11 @@
-package javahukusyuu2;
+package Review.review2;
 
-public class Review18 {
+public class Review22 {
     public static void main(String[] args) {
         int num = 10;
         int sum = 0;
-        int i = 1;
-        while(i <= num){
+        for (int i = 1; i <= num; i=i+2) {
             sum += i;
-            i = i + 2;
         }
         System.out.println("結果:" + sum);
     }
